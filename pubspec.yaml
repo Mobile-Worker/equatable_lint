@@ -13,4 +13,4 @@ dependencies:
   collection: ^1.16.0
   custom_lint_builder: ^0.8.0
   equatable: ^2.0.7
-  source_gen: ^3.0.0
+  source_gen: ^4.0.2
